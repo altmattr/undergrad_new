@@ -1,0 +1,4 @@
+{
+	"name": "sphinx with latexpdf",
+	"image": "sphinxdoc/sphinx-latexpdf"
+}

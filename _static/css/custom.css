@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Brandon Regular";
+    src: url("./Brandon_reg.otf");
+}
+@font-face {
+    font-family: "Brandon Medium";
+    src: url("./Brandon_med.otf");
+}
+@font-face {
+    font-family: "Brandon Black";
+    src: url("./Brandon_blk.otf");
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: "Brandon Medium";
+}
+
+.bd-sidebar-primary {
+    font-family: "Brandon Regular";
+}
+.docutils.container.left {
+    float: left;
+    width: 45%;
+}
+
+.docutils.container.right {
+    float: right;
+    width: 48%;
+}

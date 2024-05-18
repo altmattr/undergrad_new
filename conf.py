@@ -13,6 +13,9 @@ master_doc = 'index'
 pygments_style = 'sphinx'
 todo_include_todos = True
 
-html_theme = 'pydata_sphinx_theme'
+html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
+html_css_files = [
+    'css/custom.css',
+]
 html_show_sphinx = False

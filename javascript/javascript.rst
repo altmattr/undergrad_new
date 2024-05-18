@@ -58,6 +58,7 @@ In javascript, you don't get the canvas for free, you have to create it youself 
         function draw(){
         }
 
+
 Runs in a browser
 -----------------
 
@@ -106,6 +107,7 @@ Javascript does not need you to tell it what type a variable is, instead you jus
             x = (x + 1) % width;
             y = (y + 1) % height;
         }
+
 
 You don't need to put a data type into your function signature
 --------------------------------------------------------------

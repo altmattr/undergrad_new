@@ -1,11 +1,9 @@
 Transition to Java
 ==================
 
-Processing _is_ Java under the hood.  The processing IDE we have been using basically just makes Java look nicer for us and gives us easy access to all the primitive operations we've been using.  We can do everything we did in Processing directly in Java if we can get our head around the more complex IDE that Java uses [#].
+Processing _is_ Java under the hood.  The processing IDE we have been using basically just makes Java look nicer for us and gives us easy access to all the primitive operations we've been using.  We can do everything we did in Processing directly in Java if we can get our head around the more complex IDE that Java uses.  There are actually multiple IDEs for Java but the most populare one, and the one you will use in COMP1010, is Visual Studio Code.
 
-.. [#] There are actually multiple IDEs for Java but the most populare one, and the one you will use in COMP1010, is Visual Studio Code.
-
-You will need to download a cop  of the Java IDE _Visual Studio Code_ and install the Java Extensions.
+You will need to download a cop  of the Java IDE *Visual Studio Code* and install the Java Extensions.
 
 Importing the library
 ---------------------

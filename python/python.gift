@@ -1,0 +1,17 @@
+::Snippet::
+Which snippet of code do you think is valid python?{
+    ~function draw()\{
+    ~function draw():
+    ~void draw()\{
+    ~void draw():
+    ~draw()\{
+    =draw():
+}
+
+::only python::
+Which of these statements is true of Python but not Processing{
+    =Indenting is meaningful to the compiler
+    ~Semi-colons start arrays
+    ~Indenting is optional
+    ~Semi-colons are not needed
+}

@@ -1,0 +1,17 @@
+::Snippet::
+Which snippet of code do you think is valid javascript?{
+    =function draw()\{
+    ~function draw():
+    ~void draw()\{
+    ~void draw():
+    ~draw()\{
+    ~draw():
+}
+
+::only javascript::
+Which of these statements is true of JavaScript but not Processing?{
+    =it runs in the web browser
+    ~it requires a draw function
+    ~you can program it from the Processing IDE
+    ~it has integers but not booleans
+}

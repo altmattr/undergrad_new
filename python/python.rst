@@ -13,14 +13,14 @@ Once you do this, you will see "Python" in the list of modes you can choose in t
 :Don't delcare variables:
     They just magically are declared for you the first time you use them!  This means that you can't rely on them having a default value, so you must initialise every variable.
 
-:Semi-colon and indent instead of curly braces:
-    When you would have used curly braces to start and end an ``if``-statement of function etc, you instead put a semi-colon where the ``{`` would have gone, and indent all the lines that would have gone before the ``}``.  You've been indenting like this in your processing code, but you didn't _have_ to, in Python it is not an option. 
+:colon and indent instead of curly braces:
+    When you would have used curly braces to start and end an ``if``-statement of function etc, you instead put a colon where the ``{`` would have gone, and indent all the lines that would have gone before the ``}``.  You've been indenting like this in your processing code, but you didn't _have_ to, in Python it is not an option. 
 
 :No types on parameters:
     In Python you just give the parameter a name and move on!
 
-:No semi-colons:
-    In python you don't complete each statement with a semi-colon.  The carriage return that causes the newline does the job just fine.
+:No colons:
+    In python you don't complete each statement with a colon.  The carriage return that causes the newline does the job just fine.
 
 Here is an example of a full program in Processing (on the left) and Python (on the right) showing all these differences
 

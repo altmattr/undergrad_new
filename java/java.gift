@@ -1,0 +1,17 @@
+::Snippet::
+Which snippet of code do you think is valid Java?{
+    ~function draw()\{
+    ~function draw():
+    =void draw()\{
+    ~void draw():
+    ~draw()\{
+    ~draw():
+}
+
+::only java::
+Which of these statements is true of Java but not of Processing?{
+    =You need to import a library to do graphics
+    ~You need to import a library to do sound
+    ~You need to import libraries always
+    ~You never need to import libraries
+}

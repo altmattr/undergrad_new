@@ -13,6 +13,7 @@
 
 h1, h2, h3, h4, h5, h6{
     font-family: "Brandon Medium";
+    clear:left;
 }
 
 .bd-sidebar-primary {
@@ -20,10 +21,15 @@ h1, h2, h3, h4, h5, h6{
 }
 .docutils.container.left {
     float: left;
-    width: 45%;
+    width: 50%;
 }
 
 .docutils.container.right {
     float: right;
-    width: 48%;
+    width: 50%;
+    height: 100%;
+}
+
+p {
+    clear:left;
 }

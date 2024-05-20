@@ -101,6 +101,7 @@ Python does't actually have arrays, it has "lists" instead but they work in the 
 .. container:: left
     
     .. code:: java
+        
         for(int i = 0; i < top; i++){
           array[i] = value;
         }

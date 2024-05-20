@@ -61,7 +61,7 @@ Here is an example of a full program in Processing (on the left) and Python (on 
 
 .. container:: right
 
-    .. code:: javascript
+    .. code:: python
 
         def setup():
             size(800,800)
@@ -87,3 +87,30 @@ Here is an example of a full program in Processing (on the left) and Python (on 
             circle(x + 90, y + 10, 80)
             fill(0)
             circle(x+98, y + 2, 3)
+
+You don't need ``new`` for arrays
+---------------------------------
+
+You can just make an array variable equal to an empty array when you "declare it" and then Python will make up.
+
+You need to use ``insert`` to put things into array (which are really list)
+---------------------------------------------------------------------------
+
+Python does't actually have arrays, it has "lists" instead but they work in the same way.
+
+.. container:: left
+    
+    .. code:: java
+        for(int i = 0; i < top; i++){
+          array[i] = value;
+        }
+
+.. container:: right
+
+    .. code:: python
+
+        for i in range(0, top):
+            array.insert(i,value)
+
+
+You will also notice that ``for`` loops change a little.

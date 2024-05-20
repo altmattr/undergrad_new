@@ -184,3 +184,7 @@ You might think it would need to be ``var`` instead but in fact you can leave it
                 circle(x+98, y + 2, 3);
             }
 
+You don't need ``new`` for arrays
+---------------------------------
+
+You can just make an array variable equal to an empty array when you "declare it" and then javascript will let you use it as if it is 100 elements long, or 1000, or as long as you want!

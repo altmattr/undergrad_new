@@ -1,3 +1,5 @@
+$CATEGORY: $course$/top/transition_java_class
+
 ::Snippet::
 Which snippet of code do you think is valid Java?{
     ~function draw()\{
